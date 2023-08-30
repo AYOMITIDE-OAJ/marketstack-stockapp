@@ -15,6 +15,7 @@ dependencies:
   intl: ^0.17.0
   connectivity_plus: ^0.0.1
   bloc_test: ^9.1.4
+  build_runner: ^2.3.3
 
 dev_dependencies:
   flutter_test:
