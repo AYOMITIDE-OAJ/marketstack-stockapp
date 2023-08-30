@@ -117,4 +117,8 @@ lib
 ```
 
 ## Screenshots
+![Screenshot1](screenshots/stockapp_01.png)
+![Screenshot2](screenshots/stockapp_02.png)
+![Screenshot3](screenshots/stockapp_03.png)
+
 
