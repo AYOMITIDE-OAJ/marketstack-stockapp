@@ -115,10 +115,20 @@ lib
 └── pubspec.yaml
 
 ```
-
 ## Screenshots
-![Screenshot1](screenshots/stockapp_01.png)
-![Screenshot2](screenshots/stockapp_02.png)
-![Screenshot3](screenshots/stockapp_03.png)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/AYOMITIDE-OAJ/marketstack-stockapp/blob/main/screenshots/stockapp_01.png" width="250" height="500"/>  
+    </td>
+    <td>
+      <img src="https://github.com/AYOMITIDE-OAJ/marketstack-stockapp/blob/main/screenshots/stockapp_02.png" width="250" height="500"/>  
+    </td>
+    <td>
+      <img src="https://github.com/AYOMITIDE-OAJ/marketstack-stockapp/blob/main/screenshots/stockapp_03.png" width="250" height="500"/>  
+    </td>
+  </tr>
+
 
 
